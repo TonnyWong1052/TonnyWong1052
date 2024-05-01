@@ -2,7 +2,7 @@ I'm a Tom from The Hong Kong Polytechnic University (PolyU)
 
 **About me**
 
-- TBC
+- 🧑‍🎓 Computer Science Student
 
 - 💬 Contact Me? 23030897d@connect.polyu.hk
 
