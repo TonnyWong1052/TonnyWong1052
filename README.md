@@ -1,4 +1,4 @@
-I'm a Tom from The Hong Kong Polytechnic University (PolyU)
+I'm Tom from The Hong Kong Polytechnic University (PolyU)
 
 **About me**
 
