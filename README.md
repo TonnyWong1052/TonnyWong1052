@@ -1,8 +1,10 @@
-I'm Tom from The Hong Kong Polytechnic University (PolyU)
+I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 **About me**
 
 - 🧑‍🎓 Computer Science Year 3 Student
+
+- 📖 have different basic knowledge fields in computer science.
 
 - 💬 Contact Me? 23030897d@connect.polyu.hk
 
