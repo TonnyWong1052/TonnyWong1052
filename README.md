@@ -4,7 +4,7 @@ I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 - 🧑‍🎓 Computer Science Year 3 Student
 
-- 📖 have different basic knowledge fields in computer science.
+- 📖 have some different knowledge fields in computer science.
 
 - 💬 Contact Me? 23030897d@connect.polyu.hk
 
