@@ -2,11 +2,11 @@ I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 **About me**
 
-- 🧑‍🎓 Computer Science Year 3 Student
+- TBC in soon
 
-- 📖 have some different knowledge fields in computer science.
+- 🧑‍🎓 Computer Science Year 4 Student
 
-- 💬 Contact Me? 23030897d@connect.polyu.hk
+- 📖 React, Vue, Django, SpringBoot, CSS, PHP, TS/JS, CMS and etc...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonnyWong1052&theme=react&show_icons=true&&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
