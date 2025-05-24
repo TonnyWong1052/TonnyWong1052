@@ -8,11 +8,11 @@ I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 **My Interesting**
 
-- 📖 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, Terraform(not very well) and etc...
+- 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, Terraform(not very well) and etc...
 
 - ☁️ Cloud Computing: AWS, Azure
 
-- 🔧 Networking: Cisco (CCNA/CCNP enterprise basic concepts), SDN
+- 🌐 Networking: Cisco (CCNA/CCNP enterprise basic concepts), SDN
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonnyWong1052&theme=react&show_icons=true&&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
