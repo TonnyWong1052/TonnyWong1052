@@ -8,7 +8,7 @@ I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 **My Interesting**
 
-- 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, Terraform(not very well) and etc...
+- 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, CDK/Terraform(not very well), etc...
 
 - ☁️ Cloud Computing: AWS, Azure
 
