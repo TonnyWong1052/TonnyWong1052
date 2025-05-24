@@ -4,7 +4,7 @@ I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
 
 - 🎯 Currently exploring the different possibilities in our world
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science graduation
 
 **My Interesting**
 
