@@ -6,6 +6,8 @@ I'm Tom from Hong Kong 🇭🇰
 
 - 🎓 Polyu Computer Science graduation
 
+- contact : leungchushing1@gmail.con
+
 **My Interesting**
 
 - 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, CDK/Terraform(basic), etc...
