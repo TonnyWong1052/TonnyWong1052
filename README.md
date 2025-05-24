@@ -6,7 +6,7 @@ I'm Tom from Hong Kong 🇭🇰
 
 - 🎓 Polyu Computer Science graduation
 
-- contact : leungchushing1@gmail.con
+- contact : leungchushing1@gmail.com
 
 **My Interesting**
 
