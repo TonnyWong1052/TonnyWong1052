@@ -1,16 +1,16 @@
-I'm Tom from The Hong Kong Polytechnic University (PolyU) 🇭🇰
+I'm Tom from Hong Kong 🇭🇰
 
 **About me**
 
 - 🎯 Currently exploring the different possibilities in our world
 
-- 🎓 Computer Science graduation
+- 🎓 Polyu Computer Science graduation
 
 **My Interesting**
 
-- 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, CDK/Terraform(not very well), etc...
+- 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, CDK/Terraform(basic), etc...
 
-- ☁️ Cloud Computing: AWS, Azure
+- ☁️ Cloud Computing: AWS, Azure(basic)
 
 - 🌐 Networking: Cisco (CCNA/CCNP enterprise basic concepts), SDN
 
