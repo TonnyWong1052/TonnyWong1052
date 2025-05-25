@@ -2,7 +2,7 @@ Hello, I'm Tom from Hong Kong 🇭🇰
 
 **About me**
 
-- 🎯 Currently exploring the various possibilities of physical and visual elements in our world
+- 🎯 Currently exploring the various possibilities of physical/visual thing in our world
 
 - 🎓 PolyU Computer Science undergraduate / HKIIT(Tuen Mun) Higher Diploma in Software Engineering graduate
 
