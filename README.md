@@ -2,9 +2,9 @@ Hello, I'm Tom from Hong Kong 🇭🇰
 
 **About me**
 
-- 🎯 Currently exploring the different possibilities in our world
+- 🎯 Currently exploring the various possibilities of physical and visual elements in our world
 
-- 🎓 Polyu Computer Science graduation
+- 🎓 PolyU Computer Science undergraduate / HKIIT(Tuen Mun) Higher Diploma in Software Engineering graduate
 
 - 📩 Any questions, feel free to contact me at leungchushing1@gmail.com
 
