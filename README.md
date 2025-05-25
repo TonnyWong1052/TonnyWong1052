@@ -1,4 +1,4 @@
-I'm Tom from Hong Kong 🇭🇰
+Hello, I'm Tom from Hong Kong 🇭🇰
 
 **About me**
 
@@ -6,7 +6,7 @@ I'm Tom from Hong Kong 🇭🇰
 
 - 🎓 Polyu Computer Science graduation
 
-- contact : leungchushing1@gmail.com
+- 📩 Any questions, feel free to contact me at leungchushing1@gmail.com
 
 **My Interesting**
 
