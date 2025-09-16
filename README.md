@@ -4,6 +4,6 @@ Hello, I'm Tom from Hong Kong 🇭🇰
 
 - 🔧 DevOps: Docker, React, Django, CSS, PHP, TS/JS, CMS, CDK/Terraform(basic), etc...
 
-- ☁️ Cloud Computing: AWS, Azure(basic)
+- ☁️ Cloud Computing: AWS, Azure
 
 - 🌐 Networking: Cisco (CCNA)
