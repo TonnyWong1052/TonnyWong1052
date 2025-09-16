@@ -6,4 +6,4 @@ Hello, I'm Tom from Hong Kong 🇭🇰
 
 - ☁️ Cloud Computing: AWS, Azure(basic)
 
-- 🌐 Networking: Cisco (CCNA/CCNP enterprise basic concepts), SDN
+- 🌐 Networking: Cisco (CCNA)
