@@ -1,4 +1,4 @@
-Hello, I'm Tom from Hong Kong 🇭🇰
+Hello, I'm Tom
 
 **My Interesting**
 
