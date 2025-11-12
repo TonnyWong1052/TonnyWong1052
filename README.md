@@ -2,8 +2,8 @@ Hello, I'm Tom
 
 **My Interesting**
 
-- 🔧 DevOps: Docker, React, Django, CSS, PHP, JS, CMS, CDK/Terraform, etc...
+- 🔧 DevOps: Docker, React, Django, CSS, PHP, JS, JSP, WordPress, CDK, Redis etc...
 
-- ☁️ Cloud Computing: AWS, Azure
+- ☁️ Cloud Computing: AWS
 
 - 🌐 Networking: Cisco
